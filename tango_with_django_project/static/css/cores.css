@@ -1,0 +1,22 @@
+.navbar-custom {
+    background-color: #2a282c;
+
+
+}
+
+.btn-diferentao{
+    background-color:#121746;
+    color: aliceblue
+}
+
+.btn-gray{
+    background-color: #2a282c;
+    color: aliceblue
+}
+
+
+body{
+    /*background-image: url('../images/backclint.png');
+    background-size: cover; */
+    background-color: #e3e4e8;
+}
